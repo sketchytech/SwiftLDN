@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='URL'/>
+        <page name='Challenge1+2'/>
+        <page name='Challenge3+4'/>
+        <page name='Challenge5+6'/>
+        <page name='Challenge 7+8 Hexadecimal'/>
+        <page name='Challenge 9 16-bit'/>
+        <page name='Final Challenge Font Obfuscation'/>
+    </pages>
+</playground>
