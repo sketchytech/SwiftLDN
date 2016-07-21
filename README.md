@@ -4,4 +4,4 @@ This is the playground for the [practicals meetup on 20 July 2016](http://www.me
 The meetup will focus on exploring byte representation including Base64. This sounds like it might be a difficult subject but we'll move slowly and there are challenges here for all abilities from those who are uncomfortable thinking about bits and bytes to those who can't get enough of them. By the end of the practical fears will be overcome and the basics of working with bytes will be second nature (hopefully!).
 
 ## Notes
-Ideally please use Xcode 7.3._ when working with the Playground and not an 8 beta version unless you like the extra challenge/work. To have errors on the playground pages is normal (these are where the answers have been removed).
+Ideally please use Xcode 7.3._ when working with the Playground and not an 8 beta version unless you like the extra challenge/work. To have errors on the attendee playground pages is normal (this is where the solution code has been removed).
